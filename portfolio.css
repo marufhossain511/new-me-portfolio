@@ -1,0 +1,311 @@
+/* first banner */
+.heading {
+
+    width: 1600px;
+    height: 809px;
+    left: 1600px;
+    top: 0px;
+    background-image: url("./images/banner/banner2.png");
+
+}
+
+.first-banner-title {
+    position: absolute;
+    width: 520px;
+    height: 223px;
+    margin-right: 230px;
+    margin-left: 845px;
+    margin-top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    font-family: 'Work Sans';
+    color: #151414;
+
+}
+
+.first-banner-description {
+    position: absolute;
+    width: 438px;
+    height: 78px;
+    margin-right: 230px;
+    margin-left: 930px;
+    margin-top: 468px;
+    text-align: right;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    color: #444343;
+
+}
+
+.header-button {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    margin-left: 1210px;
+    margin-top: 578px;
+    background: #F15B22;
+    border-radius: 5px;
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+}
+
+/* section failure */
+.failure-items {
+    display: flex;
+}
+
+.failure-title {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    margin-top: 369px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+}
+
+.failure-description {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    margin-top: 487px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.failure-point-1 {
+    position: absolute;
+    width: 235px;
+    height: 26px;
+    margin-top: 607px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+
+}
+
+.failure-point-2 {
+    position: absolute;
+    width: 349px;
+    height: 26px;
+    margin-top: 633px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.failure-point-3 {
+    position: absolute;
+    width: 230px;
+    height: 26px;
+    margin-top: 659px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.failure-point-4 {
+    position: absolute;
+    width: 290px;
+    height: 26px;
+    margin-top: 685px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.failure-point-5 {
+    position: absolute;
+    width: 315px;
+    height: 26px;
+    margin-top: 711px;
+    margin-left: 87px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.img-failure {
+
+
+    margin-top: 130px;
+    margin-left: 206px;
+
+}
+
+/* my plans */
+.section-title {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    margin-left: 711px;
+    margin-top: 130px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.plans-item-title {
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    margin-left: 230px;
+    margin-top: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+
+.plans-item-description {
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    margin-left: 310px;
+    margin-top: 400px;
+    color: #737272;
+}
+
+.plans-image {
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    margin-left: 320px;
+    margin-top: 226px;
+}
+
+.plans-item-title-2 {
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    margin-left: 599px;
+    margin-top: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+}
+
+.plans-item-description-2 {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    margin-left: 640px;
+    margin-top: 398px;
+    color: #737272;
+}
+
+.plans-image-2 {
+    position: absolute;
+    width: 92px;
+    size: 92px;
+    margin-left: 631px;
+    margin-top: 226px;
+}
+
+.plans-item-title-3 {
+    position: absolute;
+    width: 218px;
+    height: 35px;
+    margin-left: 850px;
+    margin-top: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+
+.plans-item-description-3 {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    margin-left: 912px;
+    margin-top: 398px;
+    color: #737272;
+
+}
+
+.plans-image-3 {
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    margin-left: 916px;
+    margin-top: 227px;
+}
+
+.plans-item-title-4 {
+    position: absolute;
+    width: 174px;
+    height: 35px;
+    margin-left: 1177px;
+    margin-top: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.plans-item-description-4 {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    margin-left: 1215px;
+    margin-top: 398px;
+    color: #737272;
+
+}
+
+.plans-image-4 {
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    margin-left: 1210px;
+    margin-top: 227px;
+}
