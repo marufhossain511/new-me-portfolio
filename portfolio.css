@@ -357,6 +357,30 @@
     border-radius: 8px;
 
 }
+/* about my hobby */
+.hobby{
+    display: flex;
+    margin: 100px;
+    
+}
+
+.hobby-title{
+    text-align: center;
+    font-size: 40px;
+}
+.header-title{
+    text-align: center;
+    font-size: 40px; 
+}
+.hobby-container{
+    background-color: pink;
+    padding: 10px;
+    border: 2px solid grey;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+
 
 /* footer */
 .footer {
